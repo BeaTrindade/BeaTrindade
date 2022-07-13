@@ -23,4 +23,6 @@
  <img align="left" alt="Bea-pic2" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/733436037627510895/973339012980957195/beafot2.png">
 
   <img align="right" alt="Bea-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/733436037627510895/973326697137057822/beafot.png">
+<img align="right" alt="Bea-pic" height="150" style="border-radius:50px;"
+src="https://cdn.discordapp.com/attachments/990968589970460721/996574429662421032/download20220702212638.png">
 </div>
