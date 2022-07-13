@@ -1,3 +1,15 @@
+
+<div align="center">
+  <br>
+  <h3>
+    <p>Contador de visitas:</p> 
+  </h3>
+   
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{BeaTrindade}/count.svg" /></p> 
+  <br>
+</div>
+
+
 <div align="center">
   <a href="https://github.com/beatrindade">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=beatrindade&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -25,16 +37,4 @@
  <img align="left" alt="Bea-pic2" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/733436037627510895/973339012980957195/beafot2.png">
 
   <img align="right" alt="Bea-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/733436037627510895/973326697137057822/beafot.png">
-</div>
-
-##  ##
-
-<div align="center">
-  <br>
-  <h3>
-    <p>Contador de visitas:</p> 
-  </h3>
-   
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{BeaTrindade}/count.svg" /></p> 
-  <br>
 </div>
