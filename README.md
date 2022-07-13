@@ -1,10 +1,7 @@
 
 <div align="center">
   <br>
-  <h3>
-    <p>Contador de visitas:</p> 
-  </h3>
-   
+  <h3><p>🔔 Visitor Counter: </p></h3>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{BeaTrindade}/count.svg" /></p> 
   <br>
 </div>
