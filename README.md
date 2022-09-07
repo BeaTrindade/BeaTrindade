@@ -29,7 +29,9 @@
   <img align="center" alt="Bea-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bea-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bea-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img align="center" alt="Bea-Csharp" height="40" width="40" src="https://cdn.discordapp.com/attachments/720461565224157205/1017100518188916936/c-sharp.png">
   <img align="center" alt="Bea-PortugolStudio" height="30" width="40" src="https://cdn.discordapp.com/attachments/720461565224157205/994788023382327346/portuga_copia.png">
+  <img align="center" alt="Bea-React" height="40" width="40" src="https://cdn.discordapp.com/attachments/720461565224157205/1017100007670808586/atom_1.png">
 
  <img align="left" alt="Bea-pic2" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/733436037627510895/973339012980957195/beafot2.png">
 
