@@ -1,23 +1,5 @@
-<!-- Connect -->
-<div style="display: inline_block" align="center"><br> 
-<h3 align="center">Connect with me:</h3> 
-<a href="https://www.linkedin.com/in/beatrizgt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/xbeahx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- </div> 
- <br>
- <!-- Languages -->
-<div align="center">
-  <a href="https://github.com/beatrindade">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrindade&layout=compact&langs_count=6&theme=radical"/>
-</div>
-
-<!-- Languages ERROR
-  <a href="https://github.com/beatrindade">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=beatrindade&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrindade&layout=compact&langs_count=6&theme=radical"/>
-</div> -->
-
-## ##
+<!-- Nav Animado -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ab69d1&height=160&section=header&text=☆Beatriz%20Trindade☆&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
 <!-- Descrição-->
 <div align="center">
@@ -29,6 +11,22 @@ Sou full stack - Secretamente sou apaixonada pelo Front-End. Busco desafios em q
 </div>
  
 ##  ##
+
+<!-- Connect -->
+<div style="display: inline_block" align="center"><br> 
+<h3 align="center">Connect with me:</h3> 
+<a href="https://www.linkedin.com/in/beatrizgt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/xbeahx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ </div> 
+ <br>
+ 
+ <!-- Languages -->
+<div align="center">
+  <a href="https://github.com/beatrindade">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrindade&layout=compact&langs_count=6&theme=radical"/>
+</div>
+
+## ##
 
 <!-- Tech Skills -->
 <div style="display: inline_block" align="center"><br>
