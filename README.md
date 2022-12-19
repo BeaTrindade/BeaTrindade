@@ -1,5 +1,5 @@
 <!-- Nav Animado -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ab69d1&height=160&section=header&text=☆Beatriz%20Trindade☆&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=eb3841&height=160&section=header&text=☆Beatriz%20Trindade☆&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
 <!-- Descrição-->
 <div align="center">
