@@ -16,7 +16,7 @@ Sou full stack - Secretamente sou apaixonada pelo Front-End. Busco desafios em q
 <div style="display: inline_block" align="center"><br> 
 <h3 align="center">Connect with me:</h3> 
 <a href="https://www.linkedin.com/in/beatrizgt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/xbeahx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/beah.gif" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div> 
  <br>
  
@@ -31,16 +31,10 @@ Sou full stack - Secretamente sou apaixonada pelo Front-End. Busco desafios em q
 <!-- Tech Skills -->
 <div style="display: inline_block" align="center"><br>
 <h3 align="center">Tech-skills:</h3>
-  <img align="center" alt="Bea-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bea-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bea-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bea-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="Bea-Csharp" height="40" width="40" src="https://cdn.discordapp.com/attachments/720461565224157205/1017100518188916936/c-sharp.png">
-  <img align="center" alt="Bea-PortugolStudio" height="40" width="40" src="https://cdn.discordapp.com/attachments/720461565224157205/994788023382327346/portuga_copia.png">
-  <img align="center" alt="Bea-React" height="40" width="40" src="https://cdn.discordapp.com/attachments/720461565224157205/1017100007670808586/atom_1.png">
+   <img align="center" alt="Bea-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Bea-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<br>
+  <!-- Foto-->
+  <div align="center">
+ <img align="center" alt="Bea-pic" src="https://cdn.discordapp.com/attachments/1014540075759042570/1241740552601337979/bbeeaa.png?ex=664b4c82&is=6649fb02&hm=0cec67663b32e65521e1cdbc0eba75fb796da78412276944836bcd93b9cf396e&">
 
-<!-- Foto-->
- <img align="left" alt="Bea-pic2" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/733436037627510895/973339012980957195/beafot2.png">
-
-  <img align="right" alt="Bea-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/733436037627510895/973326697137057822/beafot.png">
-</div>
