@@ -34,7 +34,4 @@ Sou full stack - Secretamente sou apaixonada pelo Front-End. Busco desafios em q
    <img align="center" alt="Bea-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bea-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <br>
-  <!-- Foto-->
-  <div align="center">
- <img align="center" alt="Bea-pic" src="https://cdn.discordapp.com/attachments/1014540075759042570/1241740552601337979/bbeeaa.png?ex=664b4c82&is=6649fb02&hm=0cec67663b32e65521e1cdbc0eba75fb796da78412276944836bcd93b9cf396e&">
 
